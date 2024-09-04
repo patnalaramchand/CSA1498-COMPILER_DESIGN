@@ -29,4 +29,5 @@ PROGRAM::
     }
 
 OUTPUT::
+![Exp 4](https://github.com/user-attachments/assets/66ef88b3-882c-443f-ae2d-59e1a49f6049)
 
