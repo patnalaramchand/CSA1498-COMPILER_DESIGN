@@ -26,3 +26,4 @@ PROGRAM::
     }
 OUTPUT::
 
+![Exp 6](https://github.com/user-attachments/assets/e32d0e5c-37a4-4203-be1c-5588dacc97ad)
