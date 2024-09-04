@@ -25,4 +25,5 @@ PROGRAM::
     }
 
 OUTPUT::
-![exp 2](https://github.com/user-attachments/assets/33d24b03-2671-4525-bd4f-16ffed5ed898)
+![Exp 3](https://github.com/user-attachments/assets/5a681db6-43f4-42a9-9b56-452bd68943d4)
+
