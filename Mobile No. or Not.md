@@ -1,6 +1,6 @@
 # CSA1498-COMPILER_DESIGN
 
-# Mobile No. or Not
+# Valid Mobile No. or Not
 AIM-- Write a LEX program to check whether the given input is VALID Mobile number or not.
 
 PROGRAM:: 
@@ -25,3 +25,4 @@ PROGRAM::
     return 0;
     }
 OUTPUT::
+![exp 1](https://github.com/user-attachments/assets/0ce823cb-983b-4f42-b6f9-05ae50dbec5d)
