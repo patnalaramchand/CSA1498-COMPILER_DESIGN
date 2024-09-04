@@ -1,6 +1,6 @@
 # CSA1498-COMPILER_DESIGN
 
-[EXPERIMENT-1]
+# Digit or Not
 AIM-- Write a LEX program to check whether the given input is digit or not.
 
 PROGRAM:: 

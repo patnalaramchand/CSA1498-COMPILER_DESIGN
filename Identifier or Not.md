@@ -1,6 +1,6 @@
 # CSA1498-COMPILER_DESIGN
 
-[EXPERIMENT-1]
+# Identifier or Not
 AIM-- Write a LEX program to check whether the given input is Identifier or not.
 
 PROGRAM:: 

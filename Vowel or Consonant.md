@@ -1,6 +1,6 @@
 # CSA1498-COMPILER_DESIGN
 
-# [EXPERIMENT-1]
+# No.of Vowels and Consonents
 AIM-- Write a LEX program to check whether the given input has no.of vowls and consonents.
 
 PROGRAM:: 
