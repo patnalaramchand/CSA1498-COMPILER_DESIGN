@@ -20,5 +20,5 @@ PROGRAM::
     return 0;
     }
 OUTPUT::
-![exp 1](https://github.com/user-attachments/assets/4e96ff6f-bf84-4c62-b2c0-d37a03375b97)
+![exp 2](https://github.com/user-attachments/assets/33d24b03-2671-4525-bd4f-16ffed5ed898)
 
