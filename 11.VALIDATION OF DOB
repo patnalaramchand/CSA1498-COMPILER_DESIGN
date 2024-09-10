@@ -1,3 +1,6 @@
+# 11.VALIDATION OF DOB
+
+PROGRAM::
 %{
 %}
 
@@ -13,3 +16,5 @@ int main()
  yylex();
  return 0;
 }
+
+OUTPUT::
