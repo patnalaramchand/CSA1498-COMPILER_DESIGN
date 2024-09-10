@@ -1,3 +1,6 @@
+# 16.HTML TAGS
+
+PROGRAM::
 %{
 int html=0;
 %}
@@ -12,3 +15,5 @@ yyin=fopen("htmlcode.txt","r");
 yylex();
 return 0;
 }
+
+OUTPUT:
