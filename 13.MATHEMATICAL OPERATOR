@@ -1,3 +1,6 @@
+# 13.MATHEMATICAL OPERATOR
+
+PROGRAM::
 %{
 float op1=6,op2=7;
 %}
@@ -14,3 +17,5 @@ int main()
   printf("enter operator:");
   yylex();
 }
+
+OUTPUT::
