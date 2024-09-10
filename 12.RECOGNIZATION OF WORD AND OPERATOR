@@ -1,3 +1,6 @@
+# 12.RECOGNIZATION OF WORD AND OPERATOR
+
+PROGRAM::
 %{
 %}
 %%
@@ -10,3 +13,5 @@ int main()
 printf("\nEnter input:\n");
 yylex();
 }
+
+OUTPUT::
