@@ -1,3 +1,6 @@
+# 15.REPLACE WORD
+
+PROGRAM::
 %{
 #include<stdio.h>
 %}
@@ -10,3 +13,5 @@ int main()
 {
  yylex();
 }
+
+OUTPUT::
