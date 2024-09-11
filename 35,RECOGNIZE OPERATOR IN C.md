@@ -1,7 +1,11 @@
-#include<stdio.h> 
-#include<conio.h> 
-int main()
-{
+# 35,RECOGNIZE OPERATOR IN C.txt
+
+PROGRAM::
+
+	#include<stdio.h> 
+	#include<conio.h> 
+	int main()
+	{
 	char s[5];
 	printf("\n Enter any operator:"); 
 	gets(s);
@@ -61,3 +65,6 @@ int main()
 		default: 
 			printf("\n Not a operator");
 	}
+
+ OUTPUT::
+ 
