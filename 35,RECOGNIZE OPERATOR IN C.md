@@ -67,4 +67,4 @@ PROGRAM::
 	}
 
  OUTPUT::
- 
+ ![image](https://github.com/user-attachments/assets/5b37f6b8-4964-4c85-ad19-5cf278a6d815)
